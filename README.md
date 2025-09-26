@@ -1,4 +1,4 @@
-# EX 6 : Two-Dimensional Transformations
+# EX 6 : Two-Dimensional Clipping
 
 ## AIM
 
